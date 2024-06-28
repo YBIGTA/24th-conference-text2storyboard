@@ -133,7 +133,7 @@ StoryWeaver은 다음과 같은 파이프라인을 거쳐 작동한다.
 |**김예린**|DA| Team leader / LLM pipeline / Frontend / Presentation |
 |**김채현**|DS| LLM Pipeline / LLM + SDXL Pipeline / Frontend |
 |**남세현**|DS| LoRA Finetuning |
-|**서건하**|DE| Backend / Frontend / |
+|**서건하**|DE| Backend / Frontend / DB Construction / Baseline Pipelining |
 |**양인혜**|DS| Dataset Preparation / Data Processing / DreamBooth Finetuning |
 |**이성현**|DS| Dataset Preparation / Data Processing / DreamBooth Finetuning / Final Report|
 |**정수현**|DS| Personalization Kohya Dreambooth / Personalization Dreambooth Dataset / LLM |
