@@ -130,10 +130,10 @@ StoryWeaver은 다음과 같은 파이프라인을 거쳐 작동한다.
 
 |이름|팀|역할|
 |-|-|-|
-|**김예린**|DA|팀장/LLM pipeline/Frontend/PresentationMaterial|
-|**김채현**|DS|LLM|
-|**남세현**|DS| ... |
-|**서건하**|DE|백엔드/프론트/ ... |
-|**양인혜**|DS| dataset preparation/data processing/DreamBooth finetuning|
-|**이성현**|DS| dataset preparation/data processing/DreamBooth finetuning|
-|**정수현**|DS| ... |
+|**김예린**|DA| Team leader / LLM pipeline / Frontend / Presentation |
+|**김채현**|DS| LLM Pipeline / LLM + SDXL Pipeline / Frontend |
+|**남세현**|DS| LoRA Finetuning |
+|**서건하**|DE| Backend / Frontend / |
+|**양인혜**|DS| Dataset Preparation / Data Processing / DreamBooth Finetuning |
+|**이성현**|DS| Dataset Preparation / Data Processing / DreamBooth Finetuning / Final Report|
+|**정수현**|DS| LoRA Finetuning |
