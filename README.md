@@ -136,4 +136,4 @@ StoryWeaver은 다음과 같은 파이프라인을 거쳐 작동한다.
 |**서건하**|DE| Backend / Frontend / |
 |**양인혜**|DS| Dataset Preparation / Data Processing / DreamBooth Finetuning |
 |**이성현**|DS| Dataset Preparation / Data Processing / DreamBooth Finetuning / Final Report|
-|**정수현**|DS| LoRA Finetuning |
+|**정수현**|DS| Personalization Kohya Dreambooth / Personalization Dreambooth Dataset / LLM |
